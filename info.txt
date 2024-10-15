@@ -5,4 +5,5 @@ Right now i am in banglore for Job
  my main aim is crack an odnvdofnvodfninterview
  Java home cloud 
  install maven
+ create AWS account
  
